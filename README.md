@@ -1,13 +1,12 @@
-#Student
-Technical Skills: Python,C/C++, SQL 
-Area of Interest: Machine Learning , Deep Learning , AI , Data Science , Electronics
-###Education
-B.Tech,Electrical Engineering | Indian Institute of Technology, Jodhput (2020 - 2024)
+# Student
+Technical Skills: Python, C/C++, SQL 
+Area of Interest: Machine Learning, Deep Learning, AI , Data Science, Electronics
+### Education
+B.Tech, Electrical Engineering | Indian Institute of Technology, Jodhpur (2020 - 2024)
 
 
-###Projects
+### Projects
 TEXT-SUMMARIZER
-Self-Project
 • Spearheaded an end‑to‑end text summarization project using
 Hugging Face’s Pegasus model API. and Applied advanced fine‑tuning
 techniques on a Samsung dataset
