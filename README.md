@@ -9,7 +9,7 @@ B.Tech, Electrical Engineering | Indian Institute of Technology, Jodhpur (2020 -
 TEXT-SUMMARIZER
 - Spearheaded an end‑to‑end text summarization project using
   Hugging Face’s Pegasus model API. and Applied advanced fine‑tuning
-    techniques on a Samsung dataset
+  techniques on a Samsung dataset
 - Engineered and implemented a comprehensive data pipeline,
   encompassing data ingestion, transformation, validation, model
   training, and evaluation.
@@ -17,9 +17,9 @@ TEXT-SUMMARIZER
   handling and logging mechanisms, ensuring project reliability and
   effective troubleshooting.
 - Orchestrated the development of a user‑friendly UI with FastAPI,
-    seamlessly integrating it with a robust data pipeline for optimal
-    model interaction. and achieved commendable ROUGE scores,
-    demonstrating proficiency in model development.
+  seamlessly integrating it with a robust data pipeline for optimal
+  model interaction. and achieved commendable ROUGE scores,
+  demonstrating proficiency in model development.
   
 NEURAL STYLE TRANSFER
 
@@ -34,7 +34,7 @@ NEURAL STYLE TRANSFER
   insights into the impact of different parameters on the Neural Style
   Transfer algorithm
 
-  STUDENT PERFORMANCE ANALYSIS
+STUDENT PERFORMANCE ANALYSIS
 
 - Led a data‑driven project, using EDA to inform modeling and
   designed a robust data processing pipeline for machine learning.
@@ -56,4 +56,4 @@ AIR-CANVAS
   enhancing the application’s interactivity and responsiveness.,
 - Implemented color‑changing and canvas‑clearing functionalities
   based on finger gestures, demonstrating problem‑solving skills and
-    attention to user experience
+  attention to user experience
