@@ -1,6 +1,6 @@
 # Nishant Sharma
-Technical Skills: Python, C/C++, SQL 
-Area of Interest: Machine Learning, Deep Learning, AI , Data Science, Electronics
+#### Technical Skills: Python, C/C++, SQL 
+#### Area of Interest: Machine Learning, Deep Learning, AI , Data Science, Electronics
 ### Education
 B.Tech, Electrical Engineering | Indian Institute of Technology, Jodhpur (2020 - 2024)
 
