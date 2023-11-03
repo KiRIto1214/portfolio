@@ -1,4 +1,4 @@
-# Student
+# Nishant Sharma
 Technical Skills: Python, C/C++, SQL 
 Area of Interest: Machine Learning, Deep Learning, AI , Data Science, Electronics
 ### Education
